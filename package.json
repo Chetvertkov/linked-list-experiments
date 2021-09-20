@@ -1,0 +1,24 @@
+{
+  "name": "linked-list-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetvertkov/linked-list-experiments.git"
+  },
+  "author": "Sergey Chetvertkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetvertkov/linked-list-experiments/issues"
+  },
+  "homepage": "https://github.com/Chetvertkov/linked-list-experiments#readme",
+  "devDependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
